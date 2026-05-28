@@ -68,18 +68,38 @@ E é só isso. ✅ O harness lê automaticamente o arquivo `AGENTS.md` e o agent
 
 ### 3️⃣ Hands On!
 
-Agora é só conversar. Experimente pedir, com as suas palavras:
+Agora é só conversar. Você pode falar naturalmente, com as suas palavras. Mas, principalmente nas primeiras vezes, vale usar um modelo de prompt pronto: é só copiar e preencher os campos entre colchetes. Quanto mais contexto você dá, melhor o agente ajuda.
 
-- 🗺️ **Plano de estudos**
-  > "Quero ser desenvolvedor back-end. Tenho 1 hora por dia. Monta um plano de estudos pra mim."
+**🗺️ Plano de estudos**
 
-- 🔓 **Destravar desafio**
-  > "Estou travado em um Desafio de Código sobre laços de repetição. Me ajuda a destravar?"
+```
+Quero montar um plano de estudos.
+- Meu objetivo: [ex: ser dev back-end, concluir um bootcamp]
+- Experiência ou carreira da DIO: [ex: Bootcamp "AI Automation com N8N"]
+- Meu nível hoje: [iniciante, intermediário, avançado]
+- Tempo disponível: [ex: 1 hora por dia, de segunda a sexta]
+```
 
-- 💡 **Explicar conceito**
-  > "Me explica, de forma simples, o que é uma API."
+**🔓 Destravar desafio**
 
-O agente conduz a conversa a partir daí. Não precisa de comando especial: fale naturalmente.
+```
+Estou travado em um Desafio de [Código, Projeto ou Criativo] da DIO.
+- O que o desafio pede: [cole o enunciado ou descreva]
+- Onde eu travei: [explique o ponto da dificuldade]
+- Meu código atual: [cole aqui, se for Desafio de Código]
+- Link do repositório base: [cole aqui, se for Desafio de Projeto]
+Me ajuda a destravar sem dar a resposta pronta.
+```
+
+**💡 Explicar conceito**
+
+```
+Me explica o conceito de [ex: API, laço de repetição, herança].
+- Meu nível: [nunca vi, já ouvi falar, quero aprofundar]
+- Onde apareceu: [ex: no curso X de um bootcamp] (opcional)
+```
+
+Não precisa de comando especial nem de formato perfeito. Pode até falar com as suas palavras se preferir: o agente conduz a conversa a partir daí e pede mais detalhes se precisar.
 
 ---
 
